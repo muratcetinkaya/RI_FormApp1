@@ -1,5 +1,5 @@
 # RI_FormApp1
-provides a user interface for controlling the movements of a robot using a Windows Forms application. It also utilizes a custom library called RI Operator Commands(Based on Fanuc Robot Interface). This library is designed to execute commands used to control a FANUC robot.
+provides a user interface for controlling the movements of a robot using a Windows Forms application. It also utilizes a custom library called RI_OperatorCommands(Based on Fanuc Robot Interface). This library is designed to execute commands used to control a FANUC robot.
 ## Features
 
 - Turning digital outputs (DO) of the robot on and off.
@@ -8,5 +8,8 @@ provides a user interface for controlling the movements of a robot using a Windo
 - Adding comments to registers for documentation.
 
 
-https://github.com/muratcetinkaya/RI_FormApp1/assets/101097748/d230ec97-8929-4340-8759-5a61ff64d38f
+
+
+
+https://github.com/muratcetinkaya/RI_FormApp1/assets/101097748/2716ff54-fb57-4273-8320-7d43c22ccac1
 
