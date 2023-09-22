@@ -2,10 +2,10 @@
 provides a user interface for controlling the movements of a robot using a Windows Forms application. It also utilizes a custom library called RI_OperatorCommands(Based on Fanuc Robot Interface). This library is designed to execute commands used to control a FANUC robot.
 ## Features
 
-- Turning digital outputs (DO) of the robot on and off.
+- Turning digital I/O's of the robot on and off.
 - Establishing and terminating communication with the robot.
-- Writing integer and floating-point values to numerical registers (Register).
-- Adding comments to registers for documentation.
+- Writing integer and floating-point values 
+- Adding comments to Variables for documentation.
 
 
 
