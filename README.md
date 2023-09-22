@@ -3,6 +3,7 @@ provides a user interface for controlling the movements of a robot using a Windo
 ## Features
 
 - Turning digital I/O's of the robot on and off.
+- Reading values of robot.
 - Establishing and terminating communication with the robot.
 - Writing integer and floating-point values 
 - Adding comments to Variables for documentation.
