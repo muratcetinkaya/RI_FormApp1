@@ -11,5 +11,8 @@ provides a user interface for controlling the movements of a robot using a Windo
 
 
 
-https://github.com/muratcetinkaya/RI_FormApp1/assets/101097748/2716ff54-fb57-4273-8320-7d43c22ccac1
+
+
+
+https://github.com/muratcetinkaya/RI_FormApp1/assets/101097748/a7e0a50f-91f7-4c81-8be3-e994094ec7a4
 
