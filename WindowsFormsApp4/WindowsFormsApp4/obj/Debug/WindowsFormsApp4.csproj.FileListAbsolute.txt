@@ -1,0 +1,12 @@
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\RI_OperatorCommands.pdb
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\Kumsal\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\RI_OperatorCommands.dll
